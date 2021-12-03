@@ -1,6 +1,13 @@
 ### Hi there stranger 👋
 
 
+
+
+![img](py.jpg)
+
+
+
+
 - 🔭  I’m currently working on ... way too many things than I should. But always open to new things because I love it.
 - 🌱 I’m currently learning... Front-End stuff, Data Science, and how to stay sane in these crazy times.
 - 💬 Ask me about ... why the ending of HIMYM suck. 
