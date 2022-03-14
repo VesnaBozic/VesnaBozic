@@ -1,7 +1,7 @@
 ### Hi there stranger 👋
 
 
-<img alt="alt_text" width="500px" src="img/bg.jpg" />
+<img alt="alt_text" width="300px" src="img/bg.jpg" />
 
 #### Find ma at
 
