@@ -3,7 +3,7 @@
 
 <img alt="alt_text" width="300px" src="img/bg.jpg" />
 
-#### Find ma at
+#### Find me at
 
 :email: vesna.bozic.se@gmail.com 
 
